@@ -1,0 +1,183 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &170726
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 459994}
+  - component: {fileID: 11437172}
+  m_Layer: 0
+  m_Name: SC_Advanced_Work_Scene_Medium_Models
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &459994
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 170726}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11437172
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 170726}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 437fc3aa5da529143a75da5d3d456be2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  prefixName: Medium
+  prefixScene: Advanced_Work_Scene_Medium_Models
+  path: Assets/WorldStreamer/SplitScenes/Advanced_Work_Scene_Medium_Models/
+  names:
+  - Advanced_Work_Scene_Medium_Models_x0_z1.unity
+  - Advanced_Work_Scene_Medium_Models_x-1_z-3.unity
+  - Advanced_Work_Scene_Medium_Models_x7_z4.unity
+  - Advanced_Work_Scene_Medium_Models_x1_z-6.unity
+  - Advanced_Work_Scene_Medium_Models_x6_z5.unity
+  - Advanced_Work_Scene_Medium_Models_x0_z-3.unity
+  - Advanced_Work_Scene_Medium_Models_x8_z-3.unity
+  - Advanced_Work_Scene_Medium_Models_x-3_z-2.unity
+  - Advanced_Work_Scene_Medium_Models_x-3_z5.unity
+  - Advanced_Work_Scene_Medium_Models_x-3_z-3.unity
+  - Advanced_Work_Scene_Medium_Models_x-4_z4.unity
+  - Advanced_Work_Scene_Medium_Models_x1_z8.unity
+  - Advanced_Work_Scene_Medium_Models_x2_z8.unity
+  - Advanced_Work_Scene_Medium_Models_x-2_z-4.unity
+  - Advanced_Work_Scene_Medium_Models_x-2_z8.unity
+  - Advanced_Work_Scene_Medium_Models_x1_z-1.unity
+  - Advanced_Work_Scene_Medium_Models_x6_z-2.unity
+  - Advanced_Work_Scene_Medium_Models_x2_z-6.unity
+  - Advanced_Work_Scene_Medium_Models_x1_z0.unity
+  - Advanced_Work_Scene_Medium_Models_x-5_z0.unity
+  - Advanced_Work_Scene_Medium_Models_x0_z-4.unity
+  - Advanced_Work_Scene_Medium_Models_x-6_z2.unity
+  - Advanced_Work_Scene_Medium_Models_x7_z3.unity
+  - Advanced_Work_Scene_Medium_Models_x3_z-5.unity
+  - Advanced_Work_Scene_Medium_Models_x3_z-2.unity
+  - Advanced_Work_Scene_Medium_Models_x-5_z-3.unity
+  - Advanced_Work_Scene_Medium_Models_x-1_z-6.unity
+  - Advanced_Work_Scene_Medium_Models_x-2_z-5.unity
+  - Advanced_Work_Scene_Medium_Models_x1_z6.unity
+  - Advanced_Work_Scene_Medium_Models_x8_z7.unity
+  - Advanced_Work_Scene_Medium_Models_x-4_z5.unity
+  - Advanced_Work_Scene_Medium_Models_x0_z6.unity
+  - Advanced_Work_Scene_Medium_Models_x6_z-6.unity
+  - Advanced_Work_Scene_Medium_Models_x-3_z-4.unity
+  - Advanced_Work_Scene_Medium_Models_x0_z3.unity
+  - Advanced_Work_Scene_Medium_Models_x-2_z-2.unity
+  - Advanced_Work_Scene_Medium_Models_x9_z-1.unity
+  - Advanced_Work_Scene_Medium_Models_x3_z-6.unity
+  - Advanced_Work_Scene_Medium_Models_x7_z-3.unity
+  - Advanced_Work_Scene_Medium_Models_x9_z-3.unity
+  - Advanced_Work_Scene_Medium_Models_x-2_z-3.unity
+  - Advanced_Work_Scene_Medium_Models_x5_z-4.unity
+  - Advanced_Work_Scene_Medium_Models_x6_z-4.unity
+  - Advanced_Work_Scene_Medium_Models_x2_z1.unity
+  - Advanced_Work_Scene_Medium_Models_x-3_z2.unity
+  - Advanced_Work_Scene_Medium_Models_x-1_z0.unity
+  - Advanced_Work_Scene_Medium_Models_x1_z-4.unity
+  - Advanced_Work_Scene_Medium_Models_x-1_z-2.unity
+  - Advanced_Work_Scene_Medium_Models_x0_z2.unity
+  - Advanced_Work_Scene_Medium_Models_x0_z-2.unity
+  - Advanced_Work_Scene_Medium_Models_x-5_z4.unity
+  - Advanced_Work_Scene_Medium_Models_x9_z-5.unity
+  - Advanced_Work_Scene_Medium_Models_x7_z2.unity
+  - Advanced_Work_Scene_Medium_Models_x-1_z1.unity
+  - Advanced_Work_Scene_Medium_Models_x-4_z-3.unity
+  - Advanced_Work_Scene_Medium_Models_x7_z-5.unity
+  - Advanced_Work_Scene_Medium_Models_x-4_z-5.unity
+  - Advanced_Work_Scene_Medium_Models_x-6_z5.unity
+  - Advanced_Work_Scene_Medium_Models_x-5_z-5.unity
+  - Advanced_Work_Scene_Medium_Models_x6_z3.unity
+  - Advanced_Work_Scene_Medium_Models_x-6_z-1.unity
+  - Advanced_Work_Scene_Medium_Models_x1_z1.unity
+  - Advanced_Work_Scene_Medium_Models_x8_z4.unity
+  - Advanced_Work_Scene_Medium_Models_x-6_z6.unity
+  - Advanced_Work_Scene_Medium_Models_x0_z7.unity
+  - Advanced_Work_Scene_Medium_Models_x-2_z6.unity
+  - Advanced_Work_Scene_Medium_Models_x6_z-1.unity
+  - Advanced_Work_Scene_Medium_Models_x-6_z9.unity
+  - Advanced_Work_Scene_Medium_Models_x1_z-3.unity
+  - Advanced_Work_Scene_Medium_Models_x0_z-1.unity
+  - Advanced_Work_Scene_Medium_Models_x9_z0.unity
+  - Advanced_Work_Scene_Medium_Models_x6_z6.unity
+  - Advanced_Work_Scene_Medium_Models_x3_z0.unity
+  - Advanced_Work_Scene_Medium_Models_x-4_z7.unity
+  - Advanced_Work_Scene_Medium_Models_x-3_z6.unity
+  - Advanced_Work_Scene_Medium_Models_x-2_z3.unity
+  - Advanced_Work_Scene_Medium_Models_x8_z-2.unity
+  - Advanced_Work_Scene_Medium_Models_x7_z-6.unity
+  - Advanced_Work_Scene_Medium_Models_x-5_z1.unity
+  - Advanced_Work_Scene_Medium_Models_x8_z6.unity
+  - Advanced_Work_Scene_Medium_Models_x1_z-2.unity
+  - Advanced_Work_Scene_Medium_Models_x-3_z-1.unity
+  - Advanced_Work_Scene_Medium_Models_x8_z0.unity
+  - Advanced_Work_Scene_Medium_Models_x-2_z0.unity
+  - Advanced_Work_Scene_Medium_Models_x-5_z-1.unity
+  - Advanced_Work_Scene_Medium_Models_x7_z-4.unity
+  - Advanced_Work_Scene_Medium_Models_x-1_z7.unity
+  - Advanced_Work_Scene_Medium_Models_x7_z7.unity
+  - Advanced_Work_Scene_Medium_Models_x1_z2.unity
+  - Advanced_Work_Scene_Medium_Models_x3_z-4.unity
+  - Advanced_Work_Scene_Medium_Models_x-5_z-6.unity
+  - Advanced_Work_Scene_Medium_Models_x9_z2.unity
+  - Advanced_Work_Scene_Medium_Models_x-6_z4.unity
+  - Advanced_Work_Scene_Medium_Models_x7_z8.unity
+  - Advanced_Work_Scene_Medium_Models_x7_z9.unity
+  - Advanced_Work_Scene_Medium_Models_x-2_z-1.unity
+  - Advanced_Work_Scene_Medium_Models_x8_z-5.unity
+  - Advanced_Work_Scene_Medium_Models_x9_z-6.unity
+  - Advanced_Work_Scene_Medium_Models_x7_z-2.unity
+  - Advanced_Work_Scene_Medium_Models_x8_z-1.unity
+  - Advanced_Work_Scene_Medium_Models_x3_z-1.unity
+  - Advanced_Work_Scene_Medium_Models_x7_z5.unity
+  - Advanced_Work_Scene_Medium_Models_x0_z9.unity
+  - Advanced_Work_Scene_Medium_Models_x7_z-1.unity
+  - Advanced_Work_Scene_Medium_Models_x3_z9.unity
+  - Advanced_Work_Scene_Medium_Models_x1_z3.unity
+  - Advanced_Work_Scene_Medium_Models_x0_z4.unity
+  - Advanced_Work_Scene_Medium_Models_x-1_z-1.unity
+  - Advanced_Work_Scene_Medium_Models_x4_z-6.unity
+  - Advanced_Work_Scene_Medium_Models_x8_z2.unity
+  - Advanced_Work_Scene_Medium_Models_x-3_z9.unity
+  - Advanced_Work_Scene_Medium_Models_x0_z0.unity
+  - Advanced_Work_Scene_Medium_Models_x1_z5.unity
+  - Advanced_Work_Scene_Medium_Models_x1_z-5.unity
+  - Advanced_Work_Scene_Medium_Models_x5_z8.unity
+  - Advanced_Work_Scene_Medium_Models_x-1_z-4.unity
+  - Advanced_Work_Scene_Medium_Models_x9_z-2.unity
+  - Advanced_Work_Scene_Medium_Models_x-1_z8.unity
+  xSplitIs: 1
+  ySplitIs: 0
+  zSplitIs: 1
+  xSize: 50
+  ySize: 0
+  zSize: 50
+  xLimitsx: -6
+  xLimitsy: 9
+  yLimitsx: 0
+  yLimitsy: 0
+  zLimitsx: -6
+  zLimitsy: 9
+  collapsed: 1
+  layerNumber: 0
+  color: {r: 0.15862082, g: 1, b: 0, a: 1}

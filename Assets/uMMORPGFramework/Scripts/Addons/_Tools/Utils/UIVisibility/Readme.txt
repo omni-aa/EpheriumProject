@@ -1,0 +1,1 @@
+To use this Tools utility you simply need to add the UIVisibility Component to your Cancas and assign the panels you want hidden/displayed.

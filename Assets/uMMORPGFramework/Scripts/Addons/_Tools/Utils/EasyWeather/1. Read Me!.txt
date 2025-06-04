@@ -1,0 +1,10 @@
+[Instructions]
+
+(Required)
+1: remove direction light from your scene
+2: drag Weather Manager prefab to scene
+3: assign your default skybox to (Sky Box) slot in Weather Area's prefabs in scene
+
+(Optional)
+4: add (Rain) prefab to main camera as a child
+5: assign Rain prefab from camera to (Weather) slot in a Weather Area prefab in the scene
